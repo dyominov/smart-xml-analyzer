@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/.name
+.idea/compiler.xml
+.idea/misc.xml
+.idea/workspace.xml
+sample-0-origin.html
+sample-1-evil-gemini.html
+sample-2-container-and-clone.html
+sample-3-the-escape.html
+sample-4-the-mash.html
+smart-xml-analyzer.iml
+src/main/resources/
+src/test/
+target/
